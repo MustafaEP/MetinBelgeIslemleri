@@ -1,0 +1,11 @@
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\bin\Debug\MetinBelgesiIslemeleri.exe.config
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\bin\Debug\MetinBelgesiIslemeleri.exe
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\bin\Debug\MetinBelgesiIslemeleri.pdb
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.csproj.AssemblyReference.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.Form1.resources
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.Properties.Resources.resources
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.csproj.GenerateResource.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.csproj.CoreCompileInputs.cache
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.exe
+C:\Users\porta\OneDrive\Masaüstü\DotNet\MetinBelgesiIslemeleri\MetinBelgesiIslemeleri\obj\Debug\MetinBelgesiIslemeleri.pdb
